@@ -154,20 +154,13 @@ body {
 }
 
 .product-card {
-  background-color: #fff;
   padding: 20px;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
-  transition: transform 0.3s ease;
 }
 
-.product-card:hover {
-  transform: translateY(-5px);
-}
 
 .product-card img {
   width: 100%;
   height: auto;
-  border-radius: 8px;
 }
 
 .product-card h3 {
