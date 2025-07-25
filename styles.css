@@ -525,10 +525,14 @@ body {
 
 .footer-links {
     list-style: none;
+    
 }
 
 .footer-links li {
     margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
 }
 
 .footer-links a {
